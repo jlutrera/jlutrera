@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 - **Frameworks:** React, Django
 - **Tools:** Git, Docker
 - **Databases:** MySQL, MongoDB
-- *System Administration:** Linux
+- **System Administration:** Linux
 <!--
 ## 📜 Certifications
 - **Comming soon** - [Link to certification](https://certification-link.com)
