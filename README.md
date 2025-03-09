@@ -71,5 +71,4 @@ Here are some ideas to get you started:
 
 ## 🏆 Achievements
 ![GitHub followers](https://img.shields.io/github/followers/jlutrera?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/jlutrera67?style=social)
 ![Profile Views](https://komarev.com/ghpvc/?username=jlutrera)
