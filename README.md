@@ -1,4 +1,4 @@
-## Hi there 👋
+<h2 align="center">Welcome to My GitHub Profile!</h2>
 <!--
 **jlutrera/jlutrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -11,7 +11,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![jlutrera](https://github.com/user-attachments/assets/3a22e461-890b-4a32-9769-bd7f9e551355)
+<table title="Metrics">
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/3a22e461-890b-4a32-9769-bd7f9e551355" alt="jlutrera" width="400"/></td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=jlutrera&show_icons=true&theme=radical" alt="jlutrera's GitHub stats" width="400"/>
+      <br>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlutrera&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 🎓 Education
 - **Master's Degree** in Science Physics from [Universidad Complutense](https://www.ucm.es/) (1985 - 1992)
@@ -19,10 +30,7 @@ Here are some ideas to get you started:
 - **Spanish** : Native 
 
 ## 📈 Metrics
-- **GitHub Stats**
-  - ![jlutrera's GitHub stats](https://github-readme-stats.vercel.app/api?username=jlutrera&show_icons=true&theme=radical)
-- **Top Languages**
-  - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jlutrera&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🚀 Projects
 - [Project 1](https://github.com/jlutrera/project1): A brief description of what this project does.
