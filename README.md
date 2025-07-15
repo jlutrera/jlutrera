@@ -67,7 +67,7 @@ sources.
 -->
 ## 🌐 Connect with me
 - [LinkedIn](https://linkedin.com/in/josé-luis-utrera-canalejo-5860a9297)
-- [Twitter](https://twitter.com/jlutrera67)
+- [ X ](https://twitter.com/jlutrera67)
 - [Email](mailto:informaticajlu@gmail.com)
 
 ## 🏆 Achievements
