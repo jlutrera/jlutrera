@@ -66,7 +66,7 @@ sources.
 - **Comming soon** - [Link to certification](https://certification-link.com)
 -->
 ## 🌐 Connect with me
-- [LinkedIn](https://linkedin.com/in/jose-luis-utrera-5860a9297)
+- [LinkedIn](https://linkedin.com/in/josé-luis-utrera-canalejo-5860a9297
 - [Twitter](https://twitter.com/jlutrera67)
 - [Email](mailto:informaticajlu@gmail.com)
 
