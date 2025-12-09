@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 ## 🚀 Repositories
 - [Pool projects](https://github.com/jlutrera/42Madrid-Pool): Projects made in the <42> pool.
 - [Common Core projects](https://github.com/jlutrera/42Madrid-CommonCore): Projects made in the <42> cursus.
-  [libft](https://github.com/jlutrera/libft): This project consists of programming a library in C. Your library will have a lot of general-purpose functions.
-  [ft_printf](https://github.com/jlutrera/ft_printf): The goal of this project is to reprogram printf().
+--[libft](https://github.com/jlutrera/libft): This project consists of programming a library in C. Your library will have a lot of general-purpose functions.
+--  [ft_printf](https://github.com/jlutrera/ft_printf): The goal of this project is to reprogram printf().
   [get_next_ine](https://github.com/jlutrera/get_next_line): The goal of this project is to program a function that returns a line read from a file descriptor.
   [Born2beroot](https://github.com/jlutrera/Born2beroot): This project is a systems administration exercise.
   [push_swap](https://github.com/jlutrera/push_swap): This project sorts data in a stack, with a limited set of instructions, using the smallest number of instructions. To succeed, I must study various algorithms and choose the most appropriate one for optimal sorting.
