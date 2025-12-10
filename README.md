@@ -1,4 +1,4 @@
-<h2 align="center">Welcome to My GitHub Profile!</h2>
+
 <!--
 **jlutrera/jlutrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -11,7 +11,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github.com/user-attachments/assets/3a22e461-890b-4a32-9769-bd7f9e551355" alt="jlutrera" width="400"/>
+<table>
+  <td>
+    <tr><h2 align="center">Welcome to My GitHub Profile!</h2></tr>
+  </td>
+  <td>
+    <img src="https://github.com/user-attachments/assets/3a22e461-890b-4a32-9769-bd7f9e551355" alt="jlutrera" width="400"/>
+  </td>
+</table>
 
 ## 🎓 Education
 - **Master's Degree** in Science Physics from [Universidad Complutense](https://www.ucm.es/) (1985 - 1992)
