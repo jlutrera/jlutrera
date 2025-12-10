@@ -11,11 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/3a22e461-890b-4a32-9769-bd7f9e551355" alt="jlutrera" width="400"/></td>
-  </tr>
-</table>
+<img src="https://github.com/user-attachments/assets/3a22e461-890b-4a32-9769-bd7f9e551355" alt="jlutrera" width="400"/>
 
 ## 🎓 Education
 - **Master's Degree** in Science Physics from [Universidad Complutense](https://www.ucm.es/) (1985 - 1992)
