@@ -32,9 +32,10 @@ Here are some ideas to get you started:
 - **Spanish** : Native 
 
 ## 🚀 Repositories
-- [Pool projects](https://github.com/jlutrera/42Madrid-Pool): Projects made in <42>.
-- [Common Core projects](https://github.com/jlutrera/42Madrid-CommonCore): Projects made in <42>.
-- [Outer Core projects](https://github.com/jlutrera/42Madrid-OuterCore): Projects made in <42>
+The following projects were made in <42> school
+- [Pool projects](https://github.com/jlutrera/42Madrid-Pool)
+- [Common Core projects](https://github.com/jlutrera/42Madrid-CommonCore)
+- [Outer Core projects](https://github.com/jlutrera/42Madrid-OuterCore)
 
 ## 🛠 Skills
 - **Programming Languages:** JavaScript, Python, C++, C
