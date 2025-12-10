@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 <table>
   <tr>
-    <td><h2 align="center">Welcome to My GitHub Profile!</h2></td>
+    <td><h2 align="center">Welcome <br>to<br> My GitHub Profile!</h2></td>
     <td><img src="https://github.com/user-attachments/assets/3a22e461-890b-4a32-9769-bd7f9e551355" alt="jlutrera" width="400"/></td>
   </tr>
 </table>
