@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## 🎓 Education
 - **Master's Degree** in Science Physics from [Universidad Complutense](https://www.ucm.es/) (1985 - 1992)
-- **<42> Madrid student** [IT school](https://www.42madrid.com/)(2022-now)
+- **<42> Madrid student** [IT school](https://www.42madrid.com/)(2022-nov)
 - **English** : B1 Level Cambridge certificate (2024)
 - **Spanish** : Native 
 
