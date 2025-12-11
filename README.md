@@ -28,8 +28,7 @@ The following projects were made in <42> school
 - [Pool projects](https://github.com/jlutrera/42Madrid-Pool)
 - [Common Core projects](https://github.com/jlutrera/42Madrid-CommonCore)
 - [Outer Core projects](https://github.com/jlutrera/42Madrid-OuterCore)
-- [Advent of Code 2024](https://github.com/jlutrera/Advent-of-Code-2024)
-- [Advent of Code 2025](https://github.com/jlutrera/Advent-of-Code-2025)
+- [Advent of Code](https://github.com/jlutrera/Advent-of-Code)
 
 ## 🛠 Skills
 - **Programming Languages:** JavaScript, Python, C++, C
