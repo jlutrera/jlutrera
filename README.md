@@ -30,6 +30,14 @@ The following projects were made in <42> school
 - [Outer Core projects](https://github.com/jlutrera/42Madrid-OuterCore)
 - [Advent of Code](https://github.com/jlutrera/Advent-of-Code)
 
+The following projects are in process:
+- [rt](https://github.com/jlutrera/rt)
+- [ft_linear_regression](https://github.com/jlutrera/ft_linear_regression)
+- [matrix](https://github.com/jlutrera/matrix)
+- [libasm](https://github.com/jlutrera/libasm)
+- [malloc](https://github.com/jlutrera/malloc)
+- [dslr](https://github.com/jlutrera/dslr)
+
 ## 🛠 Skills
 - **Programming Languages:** JavaScript, Python, C++, C
 - **Frameworks:** React, Django
